@@ -18,12 +18,9 @@ A SwiftUI-based iOS application that fetches public images from the Flickr Publi
 
 ## 🚀 Live Preview
 
-![iPhone](https://github.com/user-attachments/assets/66f84956-8b20-460b-997b-a551e250f5e6)
-
-![iPhone](https://github.com/user-attachments/assets/5b048408-dff4-41fd-9414-927b04030b88)
-
-![iPhone](https://github.com/user-attachments/assets/4422a088-44f1-4324-a699-d6ddfdd76e1c)
-
+![Image1](https://github.com/user-attachments/assets/58ba7f21-20c5-475e-9f7c-002354fbaff6)
+![image2](https://github.com/user-attachments/assets/f4ced34d-b000-494d-a20a-c9ac95cca6a8)
+![cat](https://github.com/user-attachments/assets/1ad26ac1-c165-4034-bf05-9e97cf94eb36)
 
 
 ## 🧱 Project Structure
